@@ -3,5 +3,6 @@
     "activityBar.background": "#521A25",
     "titleBar.activeBackground": "#732434",
     "titleBar.activeForeground": "#FEFBFC"
-  }
+  },
+  "editor.tabSize": 2
 }
