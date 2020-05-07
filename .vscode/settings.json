@@ -7,5 +7,11 @@
   "editor.tabSize": 2,
   "workbench.sideBar.location": "right",
   "workbench.editor.openPositioning": "last",
-  "workbench.editor.focusRecentEditorAfterClose": false
+  "workbench.editor.focusRecentEditorAfterClose": false,
+  "cSpell.words": [
+    "fieldofstudy",
+    "githubusername",
+    "linkedin",
+    "youtube"
+  ]
 }
