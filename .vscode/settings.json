@@ -4,5 +4,8 @@
     "titleBar.activeBackground": "#732434",
     "titleBar.activeForeground": "#FEFBFC"
   },
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "workbench.sideBar.location": "right",
+  "workbench.editor.openPositioning": "last",
+  "workbench.editor.focusRecentEditorAfterClose": false
 }
